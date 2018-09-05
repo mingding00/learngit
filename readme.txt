@@ -2,4 +2,4 @@ hellow vi
 hellow git
 hellow stage
 hellow stage
-hellow dev master
+hellow dev master hellow
